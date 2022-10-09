@@ -1,0 +1,26 @@
+.logo{
+    font-size: large;
+    font-weight: bold;
+}
+
+.blink {
+    animation: blink 2s linear infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+.offline{
+  color: red;
+}
+
+.online{
+  color: lightgreen;
+}
+
+.right-status{
+  float: right;
+}

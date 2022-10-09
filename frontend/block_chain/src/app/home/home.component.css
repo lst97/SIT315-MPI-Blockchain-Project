@@ -1,0 +1,8 @@
+span.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.flex-container > transection-pool{
+  border-left:  2px outset lightgray;
+}
